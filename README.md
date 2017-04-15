@@ -1,0 +1,3 @@
+# SparkApp
+
+Developed with Python 2, Spark 1.6. I know I need to upgrade my cloudera distribution...
